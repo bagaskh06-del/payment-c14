@@ -1,0 +1,5 @@
+{
+  "name": "BendaharaKelas",
+  "description": "Aplikasi manajemen keuangan kelas mahasiswa yang lengkap dengan dashboard, pencatatan iuran, pengeluaran, dan laporan otomatis.",
+  "requestFramePermissions": []
+}

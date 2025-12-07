@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "127025185952",
+    "project_id": "m-test-app-b2c33",
+    "storage_bucket": "m-test-app-b2c33.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127025185952:android:b84c03100f73c9b083b5c5",
+        "android_client_info": {
+          "package_name": "payment.c14.com"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Z8ZbqPq9bT-Swsv6n74lvXAxWYj98pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127025185952:android:1aa2e63b7aa006ac83b5c5",
+        "android_client_info": {
+          "package_name": "paymentc14.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7Z8ZbqPq9bT-Swsv6n74lvXAxWYj98pI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
